@@ -1,5 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "prCreation": "not-pending",
   "packageRules": [
     {
       "description": "pnpm update must be 7.6.0 to match the example given in renovatebot/renovate #16921",
